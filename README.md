@@ -18,4 +18,4 @@ Next read.
 ---
 ## Videos:
 
-* [Datomic: desafios e benefícios de um banco de dados imutável](https://www.youtube.com/watch?v=jip-dl7XDVE&t=1746s)
+* [Datomic: desafios e benefícios de um banco de dados imutável](https://www.youtube.com/watch?v=jip-dl7XDVE)
