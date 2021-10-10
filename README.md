@@ -21,3 +21,4 @@ Next read.
 ## Videos:
 
 * [Datomic: desafios e benefícios de um banco de dados imutável](https://www.youtube.com/watch?v=jip-dl7XDVE)
+* [Talk by Rich Hickey: Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/)
